@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Felipe de Morais
 - 👀 I’m interested in Machine Learning and its application on Education
-- 🌱 I’m currently a Ph.D. candidate working on emotions detection based on data mining
+- 📚 I just finished my Ph.D. on emotions detection based on data mining
+- 👨🏼‍💻 I'm currently a Data Scientist at Paipe
 - 📫 You can reach me by e-mail: felipedemoraisfm@hotmail.com
 
 <!---
