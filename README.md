@@ -2,6 +2,7 @@
 - 👀 I’m interested in Machine Learning and its application on Education
 - 📚 I just finished my Ph.D. on emotions detection based on data mining
 - 👨🏼‍💻 I'm currently a Data Scientist at Paipe
+- 👨🏼‍🏫 I'm currently a Professor at Unisinos
 - 📫 You can reach me by e-mail: felipedemoraisfm@hotmail.com
 
 <!---
