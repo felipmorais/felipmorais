@@ -3,7 +3,6 @@
 - 📚 I just finished my Ph.D. on emotions detection based on data mining
 - 👨🏼‍💻 I'm currently a Data Scientist at Paipe
 - 👨🏼‍🏫 I'm currently a Professor at Unisinos
-- 📫 You can reach me by e-mail: felipedemoraisfm@hotmail.com
 
 <!---
 felipmorais/felipmorais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
